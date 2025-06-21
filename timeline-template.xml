@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elementor>
+  <widgets>
+    <widget>
+      <id>2cc60fd5</id>
+      <type>timeline-widget-addon</type>
+      <settings>
+        <twae_list>
+          <item>
+            <twae_story_title>Amazon is born</twae_story_title>
+            <twae_description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?</p>]]></twae_description>
+            <twae_year>1994</twae_year>
+            <twae_date_label>July 5</twae_date_label>
+            <twae_extra_label>Introduced</twae_extra_label>
+            <twae_image>
+              <url>http://newtesting.local/wp-content/plugins/timeline-widget-addon-for-elementor/assets/images/amazon1.jpg</url>
+            </twae_image>
+          </item>
+          <item>
+            <twae_story_title>Amazon Prime debuts</twae_story_title>
+            <twae_description><![CDATA[<p>Aliter homines, aliter philosophos loqui putas oportere? Sin aliud quid voles, postea. Mihi enim satis est, ipsis non satis. Negat enim summo bono afferre incrementum diem. Quod ea non occurrentia fingunt, vincunt Aristonem.</p>]]></twae_description>
+            <twae_year>2005</twae_year>
+            <twae_date_label>February 2</twae_date_label>
+            <twae_extra_label>Expanded</twae_extra_label>
+            <twae_image>
+              <url>http://newtesting.local/wp-content/plugins/timeline-widget-addon-for-elementor/assets/images/amazon2.jpg</url>
+            </twae_image>
+          </item>
+          <item>
+            <twae_story_title>Amazon acquires Audible</twae_story_title>
+            <twae_description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>]]></twae_description>
+            <twae_year>2008</twae_year>
+            <twae_date_label>January 31</twae_date_label>
+            <twae_extra_label>Expanded</twae_extra_label>
+            <twae_image>
+              <url>http://newtesting.local/wp-content/plugins/timeline-widget-addon-for-elementor/assets/images/amazon3.png</url>
+            </twae_image>
+          </item>
+        </twae_list>
+      </settings>
+    </widget>
+  </widgets>
+</elementor>
