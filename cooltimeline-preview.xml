@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-06-23 06:13" -->
+	<!-- generator="WordPress/6.8.1" created="2025-06-23 06:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>My WordPress Website</title>
-	<link>https://playground.wordpress.net/scope:kind-peaceful-garden</link>
+	<link>https://playground.wordpress.net/scope:sad-classic-garden</link>
 	<description></description>
-	<pubDate>Mon, 23 Jun 2025 06:13:46 +0000</pubDate>
+	<pubDate>Mon, 23 Jun 2025 06:58:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:kind-peaceful-garden</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:kind-peaceful-garden</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:sad-classic-garden</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:sad-classic-garden</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -42,7 +42,7 @@
 
 		<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://playground.wordpress.net/scope:kind-peaceful-garden/sample-page/</link>
+		<link>https://playground.wordpress.net/scope:sad-classic-garden/sample-page/</link>
 		<pubDate>Wed, 30 Apr 2025 17:27:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=2</guid>
@@ -88,7 +88,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:kind-peaceful-garden/?page_id=3</link>
+		<link>https://playground.wordpress.net/scope:sad-classic-garden/?page_id=3</link>
 		<pubDate>Wed, 30 Apr 2025 17:27:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=3</guid>
@@ -188,23 +188,27 @@
 							</item>
 					<item>
 		<title><![CDATA[Cool Timeline Demos]]></title>
-		<link>https://playground.wordpress.net/scope:kind-peaceful-garden/</link>
+		<link>https://playground.wordpress.net/scope:sad-classic-garden/</link>
 		<pubDate>Mon, 23 Jun 2025 06:07:35 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:kind-peaceful-garden/cool-timeline-demos/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Create Timeline Using Shortcode:-</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Create Timeline Using Shortcode:-</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:cool-timleine/shortcode-block {"slideToShow":"4"} /-->
 
 <!-- wp:paragraph -->
-<p>Create Timeline Using Block:-</p>
+<p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cp-timeline/content-timeline {"block_id":"1f59d70e-996a-43b2-8220-ad6a9d80e665"} -->
-<div class="wp-block-cp-timeline-content-timeline Cool-Content-Timeline"><div class="cool-timeline-block-1f59d70e-996a-43b2-8220-ad6a9d80e665"><div class="cool-vertical-timeline-body ctlb-wrapper both-sided left"><div class="cool-timeline-block-list"><!-- wp:cp-timeline/content-timeline-child {"time_heading":"Amazon is born","time_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?","timeLineImage":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon1-600x338.jpg","block_id":"35020442-c94e-4e37-ac0e-5fe1ff5ebffc","t_date":"July 5, 1994","blockPosition":"right","wodpressBlock":true,"innerBlockTemplate":[["core/image",{"url":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon1-600x338.jpg","className":"ctlb-block-image","aspectRatio":"4/3","scale":"cover"}],["core/heading",{"level":3,"content":"Amazon is born","className":"ctlb-block-title","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}],["core/paragraph",{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?","placeholder":"Add your description here","className":"ctlb-block-desc","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}]],"mediaBlock":true} -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Create Timeline Using Block:-</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cp-timeline/content-timeline {"block_id":"297fd7e2-02e8-4ce5-83b1-6d04ac32215d"} -->
+<div class="wp-block-cp-timeline-content-timeline Cool-Content-Timeline"><div class="cool-timeline-block-297fd7e2-02e8-4ce5-83b1-6d04ac32215d"><div class="cool-vertical-timeline-body ctlb-wrapper both-sided left"><div class="cool-timeline-block-list"><!-- wp:cp-timeline/content-timeline-child {"time_heading":"Amazon is born","time_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?","timeLineImage":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon1-600x338.jpg","block_id":"92b88028-411d-46bc-b7d1-b1ba0cfc94a7","t_date":"July 5, 1994","blockPosition":"right","wodpressBlock":true,"innerBlockTemplate":[["core/image",{"url":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon1-600x338.jpg","className":"ctlb-block-image","aspectRatio":"4/3","scale":"cover"}],["core/heading",{"level":3,"content":"Amazon is born","className":"ctlb-block-title","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}],["core/paragraph",{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?","placeholder":"Add your description here","className":"ctlb-block-desc","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}]],"mediaBlock":true} -->
 <div class="wp-block-cp-timeline-content-timeline-child swiper-slide"><div class="timeline-content icon-false "><div class="timeline-block-timeline ctl-row  position-right"><div class="ctl-6 timeline-block-time"><div class="story-time"><p>July 5, 1994</p></div></div><div class="timeline-block-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z"></path></svg></div><div class="ctl-6 timeline-block-detail"><div class="story-details"><div class="story-content"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","className":"ctlb-block-image"} -->
 <figure class="wp-block-image ctlb-block-image"><img src="https://cooltimeline.com/wp-content/uploads/2022/11/amazon1-600x338.jpg" alt="" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
@@ -218,7 +222,7 @@
 <!-- /wp:paragraph --></div></div></div></div></div></div>
 <!-- /wp:cp-timeline/content-timeline-child -->
 
-<!-- wp:cp-timeline/content-timeline-child {"time_heading":"Amazon Prime debuts","time_desc":"Aliter homines, aliter philosophos loqui putas oportere? Sin aliud quid voles, postea. Mihi enim satis est, ipsis non satis. Negat enim summo bono afferre incrementum diem. Quod ea non occurrentia fingunt, vincunt Aristonem., you can change me anytime click here, ","timeLineImage":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon2-600x338.jpg","block_id":"cfebb316-1cc5-4ead-9d1c-6ef1ad29e358","t_date":"Feb 2, 2020","blockPosition":"left","wodpressBlock":true,"innerBlockTemplate":[["core/image",{"url":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon2-600x338.jpg","className":"ctlb-block-image","aspectRatio":"4/3","scale":"cover"}],["core/heading",{"level":3,"content":"Amazon Prime debuts","className":"ctlb-block-title","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}],["core/paragraph",{"content":"Aliter homines, aliter philosophos loqui putas oportere? Sin aliud quid voles, postea. Mihi enim satis est, ipsis non satis. Negat enim summo bono afferre incrementum diem. Quod ea non occurrentia fingunt, vincunt Aristonem., you can change me anytime click here, ","placeholder":"Add your description here","className":"ctlb-block-desc","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}]],"mediaBlock":true} -->
+<!-- wp:cp-timeline/content-timeline-child {"time_heading":"Amazon Prime debuts","time_desc":"Aliter homines, aliter philosophos loqui putas oportere? Sin aliud quid voles, postea. Mihi enim satis est, ipsis non satis. Negat enim summo bono afferre incrementum diem. Quod ea non occurrentia fingunt, vincunt Aristonem., you can change me anytime click here, ","timeLineImage":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon2-600x338.jpg","block_id":"5b9e48ac-5705-4bf4-a94f-abeb12115d83","t_date":"Feb 2, 2020","blockPosition":"left","wodpressBlock":true,"innerBlockTemplate":[["core/image",{"url":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon2-600x338.jpg","className":"ctlb-block-image","aspectRatio":"4/3","scale":"cover"}],["core/heading",{"level":3,"content":"Amazon Prime debuts","className":"ctlb-block-title","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}],["core/paragraph",{"content":"Aliter homines, aliter philosophos loqui putas oportere? Sin aliud quid voles, postea. Mihi enim satis est, ipsis non satis. Negat enim summo bono afferre incrementum diem. Quod ea non occurrentia fingunt, vincunt Aristonem., you can change me anytime click here, ","placeholder":"Add your description here","className":"ctlb-block-desc","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}]],"mediaBlock":true} -->
 <div class="wp-block-cp-timeline-content-timeline-child swiper-slide"><div class="timeline-content icon-false "><div class="timeline-block-timeline ctl-row  position-left"><div class="ctl-6 timeline-block-time"><div class="story-time"><p>Feb 2, 2020</p></div></div><div class="timeline-block-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z"></path></svg></div><div class="ctl-6 timeline-block-detail"><div class="story-details"><div class="story-content"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","className":"ctlb-block-image"} -->
 <figure class="wp-block-image ctlb-block-image"><img src="https://cooltimeline.com/wp-content/uploads/2022/11/amazon2-600x338.jpg" alt="" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
@@ -232,7 +236,7 @@
 <!-- /wp:paragraph --></div></div></div></div></div></div>
 <!-- /wp:cp-timeline/content-timeline-child -->
 
-<!-- wp:cp-timeline/content-timeline-child {"time_heading":"Amazon acquires Audible","time_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.","timeLineImage":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon3-1-600x338.png","block_id":"42eadcbd-3603-427c-a4eb-0ef0b549e220","t_date":"Jan 31, 2021","blockPosition":"right","wodpressBlock":true,"innerBlockTemplate":[["core/image",{"url":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon3-1-600x338.png","className":"ctlb-block-image","aspectRatio":"4/3","scale":"cover"}],["core/heading",{"level":3,"content":"Amazon acquires Audible","className":"ctlb-block-title","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}],["core/paragraph",{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.","placeholder":"Add your description here","className":"ctlb-block-desc","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}]],"mediaBlock":true} -->
+<!-- wp:cp-timeline/content-timeline-child {"time_heading":"Amazon acquires Audible","time_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.","timeLineImage":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon3-1-600x338.png","block_id":"f5b22378-f3e5-44c4-9a3c-da89ea326ecd","t_date":"Jan 31, 2021","blockPosition":"right","wodpressBlock":true,"innerBlockTemplate":[["core/image",{"url":"https://cooltimeline.com/wp-content/uploads/2022/11/amazon3-1-600x338.png","className":"ctlb-block-image","aspectRatio":"4/3","scale":"cover"}],["core/heading",{"level":3,"content":"Amazon acquires Audible","className":"ctlb-block-title","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}],["core/paragraph",{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.","placeholder":"Add your description here","className":"ctlb-block-desc","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"0px","right":"0px"}}}}]],"mediaBlock":true} -->
 <div class="wp-block-cp-timeline-content-timeline-child swiper-slide"><div class="timeline-content icon-false "><div class="timeline-block-timeline ctl-row  position-right"><div class="ctl-6 timeline-block-time"><div class="story-time"><p>Jan 31, 2021</p></div></div><div class="timeline-block-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z"></path></svg></div><div class="ctl-6 timeline-block-detail"><div class="story-details"><div class="story-content"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","className":"ctlb-block-image"} -->
 <figure class="wp-block-image ctlb-block-image"><img src="https://cooltimeline.com/wp-content/uploads/2022/11/amazon3-1-600x338.png" alt="" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
@@ -250,8 +254,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-23 06:07:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-23 06:07:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-23 06:12:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-23 06:12:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-06-23 06:54:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-23 06:54:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cool-timeline-demos]]></wp:post_name>
@@ -261,7 +265,11 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
